@@ -116,7 +116,7 @@ export default {
         place-items center
 
     .VueCarousel-navigation-button[data-v-453ad8cd]
-        color #ccc   
+        color #ccc !important
         @media (max-width: 820px)
             display none 
     .moviePosterSlide
